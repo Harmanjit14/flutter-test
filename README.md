@@ -1,16 +1,31 @@
-# myntra
+# ✨ hacktoberfest2021 💫
 
-A new Flutter project.
+![banner](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-## Getting Started
+## 🌱 Contributing to hacktoberfest 2021
+### Welcome to hacktoberfest 2021 Public Repository. 👨🏻‍💻
+A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-This project is a starting point for a Flutter application.
+https://hacktoberfest.digitalocean.com/
+-----
 
-A few resources to get you started if this is your first Flutter project:
+### What can You contribute ⚠️ 
+* There is a test_hacktober folder in the repo push your code there, anything will be accepted.
+* Contribute any algorithm, data-structure implementation or your favourite problmes or projects.
+* Make sure your follow the below steps.
+-----
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### How to Contribute to this repository
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
+* Clone the forked repository to your local machine.
+* Add/Create your project to the specific folder as described in what you can contribute section.
+* Make a new branch
+* Make change in the repository with the new branch.
+* Push the changes.
+```markdown
+git add .
+git commit -m "Your commit Message"
+git push origin branch-name
+```
+* Make a pull request.
