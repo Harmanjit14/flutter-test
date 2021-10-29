@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+
+
+}
+
+.hero{
+
+    min-height: 1100px;
+    max-width: 100%;
+    /* background-color: black; */
+    background-image: url("logo2.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+nav{
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+
+}
+nav ul li{
+
+    display: inline-flex;
+    margin: 69px;
+    padding: 0px 1px;
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+/* nav ul li a{
+
+    color: thistle;
+} */
+
+.hero img{
+
+
+    width: 148px;
+    margin: 37px;
+    padding: 4px;
+}
+
+.hero h1{
+    color: white;
+    font-size: 75px;
+    border: 0px;
+    outline: none;
+    margin: 0px;
+    padding: 20px;
+}
+
+
+.hero button{
+    background: #393939;
+    border: 0;
+    outline: none;
+    /* margin: 80px; */
+    /* padding: 13px 260px; */
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin: 1px 252px;
+    padding: 12px 28px;
+    cursor: pointer;
+
+}
+
+.indicator span{
+    display: inline-block;
+    background: rgb(58, 58, 58);
+    height: 20px;
+    width: 18px;
+    border-radius: 50%;
+    margin-right: 10px;
+    padding: 9px;
+    text-align: 10px;
+    margin-left: 18px;
+
+
+}
+
+.indicator{
+
+    margin-top: 600px;
+    margin-left: 259px;
+}
+
+.cta p{
+
+    color: white;
+    margin: 12px;
+    padding: 10px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* width: 45%; */
+    /* min-width: 250px; */
+    /* right: 8%;
+    bottom: 100px; */
+}
+
+.cta{
+
+    text-align: end
+}
+
+.cta p{
+
+    width: 50%;
+    text-align: end;
+    /* margin: 20px; */
+    margin-left: 742px;
+}
+
+.cta button{
+
+    margin-right: 65px;
+}
